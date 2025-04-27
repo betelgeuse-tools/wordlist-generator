@@ -57,6 +57,7 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/betelgeuse-tools/wordlist-generator.git
 cd wordlist-generator
+pip install -r requirements.txt
 ```
 
 **Required packages** (also can be installed manually):
