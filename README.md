@@ -77,4 +77,3 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ## Author
 
 > Made with ❤️ by **Betelgeuse** (April 09, 2025)
-
